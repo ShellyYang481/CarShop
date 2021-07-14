@@ -1,0 +1,53 @@
+#container{
+	border: 1px solid brown;
+	width: 1000px;
+	margin: auto;
+	background-color: white;
+	
+}
+
+body{
+    font-size: 17px;
+    font-family: Arial;
+    background-color: #4F4F4F;
+    line-height: 1.5em;
+
+}
+header{
+    background: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+table.box{
+  
+  text-align: center;
+  margin: auto;
+  
+  margin-bottom:100px;
+  
+}
+
+#addForm{
+	
+	 text-align: center;
+  margin: auto;
+  
+  margin-bottom:100px;
+	
+}
+
+.myitem{
+  margin-bottom:10px;
+
+}
+.image{
+text-align:center;
+}
+
+
+#form{
+text-align: center;
+}
+
